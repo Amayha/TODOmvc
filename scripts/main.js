@@ -39,7 +39,7 @@
 
             
             info.innerHTML = input.value;
-            ingitfo.ondblclick = function(){
+            info.ondblclick = function(){
                 info.setAttribute('contenteditable', true);
             }
 
